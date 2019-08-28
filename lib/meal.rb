@@ -14,7 +14,7 @@ def initialize(waiter, customer, total, tip=0)
   
   def self.all
     @@all
-end
+  end
 
 
 end
